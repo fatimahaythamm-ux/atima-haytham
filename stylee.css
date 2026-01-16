@@ -1,0 +1,25 @@
+body{
+    font-family: arial , sans-serif;
+  background-color: #0d285b;
+
+}
+
+
+.profile {
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    margin:20px auto;
+    border: 1px solid #ccc;
+      display: block;
+  background-color: white;
+
+}
+.name {
+font-size: 24px;
+color: rgb(65, 37, 102);
+
+}
+.job {
+    color: rgb(75, 75, 184);
+}
